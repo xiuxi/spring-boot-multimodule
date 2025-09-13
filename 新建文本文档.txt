@@ -1,0 +1,4 @@
+C:\Users\xiuxi\Downloads\springboot-multimodule-example-master
+mvn clean package
+C:\Users\xiuxi\Downloads\springboot-multimodule-example-master\web\target>java -jar web-1.0-SNAPSHOT.jar
+
